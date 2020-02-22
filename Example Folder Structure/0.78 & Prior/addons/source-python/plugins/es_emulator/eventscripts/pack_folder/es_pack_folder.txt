@@ -1,0 +1,7 @@
+block load
+{
+	//Author's Pack
+	// format:  es_load pack_folder/race_name
+
+	es_load pack_folder/race_name
+}
